@@ -30,5 +30,6 @@ Usage ./triarb: -a amount -c currency
     	set false to initiate trade (default true)
   -v	verbose mode
 ```
+Also, put your API keys to hitbtc.go
 
 Provides test and verbose modes.
