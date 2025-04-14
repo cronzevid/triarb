@@ -1,0 +1,16 @@
+exchange:
+  hitbtc:
+    api_key: ""  # Add your API key here
+    secret_key: ""  # Add your secret key here
+    base_url: "https://api.hitbtc.com/api/3"
+
+trading:
+  min_profit_percent: 0.5
+  min_pair_existence_time: 5
+  price_adjustment_multiplier: 1
+  testing_mode: true
+  verbose_mode: false
+
+logging:
+  level: "info"
+  format: "text" 
